@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "start": "tsc && node server.js",
-    "heroku-postbuild": "typings install",
+    "postinstall": "typings install",
     "node": "node",
     "tsc": "tsc",
     "tsc:w": "tsc -w",
