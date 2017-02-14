@@ -1,0 +1,6 @@
+{
+  "name": "Angular 2 Heroku Boiler Plate",
+  "description": "The bare minimum starter code that allows users to easily deploy Angular 2 projects powered by Node and Express to Heroku.",
+  "repository": "https://github.com/AryanJ-NYC/angular-2-heroku-boilerplate",
+  "keywords": ["node", "express", "boilerplate", "angular", "angular-2"]
+}

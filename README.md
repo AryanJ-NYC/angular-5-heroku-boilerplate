@@ -18,9 +18,15 @@ This README outlines how to quickly deploy a project to Heroku using same files 
   * This should be similar to my [Heroku site](https://angular-2-heroku-boilerplate.herokuapp.com/)
 
 ### Deploying to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+**OR**
+
 * `heroku create <your-project-name>`
 * `git push heroku master`
 * `heroku open`
 
-## Contribute
-Like this boilerplate? Contribute at [http://paypal.me/AryanJ/5](http://paypal.me/AryanJ/5).
+## Support
+Like this boilerplate? Support my developments.
+
+[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/AryanJ)
