@@ -30,3 +30,8 @@ This README outlines how to quickly deploy a project to Heroku using same files 
 Like this boilerplate? Support my developments.
 
 [![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://www.paypal.me/AryanJ)
+
+Please star this repository to help it gain exposure.
+
+## Other Boilerplates
+Looking for an Angular CLI boilerplate?  Check out [this repository](https://github.com/AryanJ-NYC/angular-cli-heroku-boilerplate).
