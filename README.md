@@ -1,4 +1,4 @@
-# Angular 2 Heroku Boilerplate
+# Angular Heroku Boilerplate
 This README outlines how to quickly deploy a project to Heroku using same files used in [angular.io](https://angular.io) tutorials. This project is meant to be as minimal as possible.
 
 ## Prerequisites
@@ -9,7 +9,6 @@ This README outlines how to quickly deploy a project to Heroku using same files 
 * `git clone https://github.com/AryanJ-NYC/angular-2-heroku-boilerplate.git <your-project-name>`
 * `cd <your-project-name>`
 * `npm install`
-* `npm run typings install`
 
 ## Running / Development
 ### Running locally
@@ -22,6 +21,8 @@ This README outlines how to quickly deploy a project to Heroku using same files 
 
 **OR**
 
+* Install [Homebrew](https://brew.sh/)
+* `brew install heroku`
 * `heroku create <your-project-name>`
 * `git push heroku master`
 * `heroku open`
